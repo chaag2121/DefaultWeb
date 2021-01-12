@@ -1,2 +1,2 @@
-# FirstRepo
-This is my first repository
+# DefaultWeb Repo
+This is the default web repository.
